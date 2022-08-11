@@ -64,6 +64,8 @@ You could download the trained model at [GoogleDrive](https://drive.google.com/d
   title={Joint Representation Learning and Keypoint Detection for Cross-view Geo-localization},
   author={Lin, Jinliang and Zheng, Zhedong and Zhong, Zhun and Luo, Zhiming and Li, Shaozi and Yang, Yi and Sebe, Nicu},
   journal={IEEE Transactions on Image Processing (TIP)},
+  doi = {10.1109/TIP.2022.3175601},
+  note={\mbox{doi}:\url{10.1109/TIP.2022.3175601}},
   year={2022},
   }
 }
