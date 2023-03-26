@@ -1,6 +1,6 @@
 # [RK-Net]Joint Representation Learning and Keypoint Detection for Cross-view Geo-localization
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
-
+[[Paper Pdf]](https://www.zdzheng.xyz/files/TIP_RKNet.pdf)
 
 ## Prerequisites
 
